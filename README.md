@@ -17,7 +17,7 @@ Please see also our first experiment
 <a href="https://github.com/atlan-antillia/Image-Segmentation-Gastrointestinal-Polyp">Image-Segmentation-Gastrointestinal-Polyp</a>
 <br>
 <br>
-We use the SwinTransformert UNet Model
+We use the SwinTransformer UNet Model
 <a href="./src/TensorflowSwinUNet.py">TensorflowSwinUNet.py</a> for this GastrointestinalPolyp Segmentation.<br>
 
 <h3>1. Dataset Citatioin</h3>
@@ -79,7 +79,7 @@ https://paperswithcode.com/dataset/kvasir-seg
  If you would like to train this GastrointestinalPolyp Segmentation model by yourself,
 please download the dataset from the google drive 
 <a href="https://drive.google.com/file/d/1f9Bwjt2rKstDRgv5zztfrBl-DLZNo--c/view?usp=sharing">
-GastrointestinalPolyp-ImageMask-Dataset.zip</a> (2024/03/12)
+GastrointestinalPolyp-ImageMask-Dataset.zip</a>.
 <br>
 
 
