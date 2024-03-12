@@ -1,4 +1,4 @@
-<h2>TensorflowSwinUNet-Image-Segmentation-GastrointestinalPolyp (2024/03/13)</h2>
+<h2>TensorflowSwinUNet-Image-Segmentation-Augmented-GastrointestinalPolyp (2024/03/13)</h2>
 
 This is the second experimental Image Segmentation project for GastrointestinalPolyp  based on
 the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, and
@@ -113,7 +113,7 @@ As shown above, the number of images of train and valid dataset is not necessari
 </h3>
 This <a href="./src/TensorflowUNet.py">TensorflowUNet</a> model is slightly flexibly customizable by a configuration file.<br>
 For example, <b>TensorflowSwinUNet/GastrointestinalPolyp</b> model can be customizable
-by using <a href="./projects/TensorflowSwinUNet/GastrointestinalPolyp/train_eval_infer.config">train_eval_infer.config</a>
+by using <a href="./projects/TensorflowSwinUNet/GastrointestinalPolyp/train_eval_infer_augmentor.config">train_eval_infer_augmentor.config</a>
 <pre>
 ; train_eval_infer_augmentor.config
 ; 2024/03/12 (C) antillia.com
