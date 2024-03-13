@@ -1,6 +1,6 @@
 <h2>TensorflowSwinUNet-Image-Segmentation-Augmented-GastrointestinalPolyp (2024/03/13)</h2>
 
-This is the second experimental Image Segmentation project for GastrointestinalPolyp  based on
+This is the third experimental Image Segmentation project for GastrointestinalPolyp  based on
 the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, and
 <a href="https://drive.google.com/file/d/1f9Bwjt2rKstDRgv5zztfrBl-DLZNo--c/view?usp=sharing">
 GastrointestinalPolyp-ImageMask-Dataset.zip</a> (2024/03/12)
@@ -13,9 +13,17 @@ Segmentation samples.<br>
 
 We will use an online dataset augmentation strategy based on Python script <a href="./src/ImageMaskAugmentor.py">
 ImageMaskAugmentor.py</a> to train aGastrointestinalPolyp Segmentation Model.<br><br>
-Please see also our first experiment 
-<a href="https://github.com/atlan-antillia/Image-Segmentation-Gastrointestinal-Polyp">Image-Segmentation-Gastrointestinal-Polyp</a>
+
+Please see our first experiment 
+<a href="https://github.com/atlan-antillia/Image-Segmentation-Gastrointestinal-Polyp">
+Image-Segmentation-Gastrointestinal-Polyp</a>
 <br>
+, and our second experiment 
+<a href="https://github.com/sarah-antillia/TensorflowMultiResUNet-Segmentation-Gastrointestinal-Polyp">
+TensorflowMultiResUNet-Segmentation-Gastrointestinal-Polyp 
+</a>
+<br>
+
 <br>
 We use the SwinTransformer UNet Model
 <a href="./src/TensorflowSwinUNet.py">TensorflowSwinUNet.py</a> for this GastrointestinalPolyp Segmentation.<br>
@@ -441,6 +449,10 @@ https://arxiv.org/pdf/1911.07069v1.pdf
 Toshiyuki Arai @antillia.com<br>
 <pre>
 https://github.com/atlan-antillia/Image-Segmentation-GastrointestinalPolyp
-
 </pre>
 
+<b>4. TensorflowMultiResUNet-Segmentation-Gastrointestinal-Polyp</b><br>
+Toshiyuki Arai @antillia.com<br>
+<pre>
+https://github.com/sarah-antillia/TensorflowMultiResUNet-Segmentation-Gastrointestinal-Polyp
+</pre>
