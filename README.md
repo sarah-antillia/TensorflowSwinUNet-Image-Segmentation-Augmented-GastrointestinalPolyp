@@ -25,8 +25,10 @@ TensorflowMultiResUNet-Segmentation-Gastrointestinal-Polyp
 <br>
 
 <br>
-We use the SwinTransformer UNet Model
+We use the Swin Transformer UNet Model
 <a href="./src/TensorflowSwinUNet.py">TensorflowSwinUNet.py</a> for this GastrointestinalPolyp Segmentation.<br>
+
+On Swin Transformer UNet, please refer to <a href="https://arxiv.org/pdf/2105.05537.pdf">Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation</a><br>
 
 <h3>1. Dataset Citatioin</h3>
 
@@ -445,14 +447,33 @@ Thomas de Lange, Dag Johansen, and H˚avard D. Johansen<br>
 https://arxiv.org/pdf/1911.07069v1.pdf
 </pre>
 
-<b>3. Image-Segmentation-GastrointestinalPolyp</b><br>
+<b>3. Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation </b><br>
+Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang,<br>
+Qi Tian, and Manning Wang<br>
+<pre>
+https://arxiv.org/pdf/2105.05537v1.pdf
+</pre>
+
+<b>4. keras-unet-collection</b><br>
+Yingkai (Kyle) Sha<br>
+<pre>
+https://github.com/yingkaisha/keras-unet-collection/blob/main/keras_unet_collection/_model_swin_unet_2d.py
+</pre>
+
+<b>5. Image-Segmentation-GastrointestinalPolyp</b><br>
 Toshiyuki Arai @antillia.com<br>
 <pre>
 https://github.com/atlan-antillia/Image-Segmentation-GastrointestinalPolyp
 </pre>
 
-<b>4. TensorflowMultiResUNet-Segmentation-Gastrointestinal-Polyp</b><br>
+<b>6. TensorflowMultiResUNet-Segmentation-Gastrointestinal-Polyp</b><br>
 Toshiyuki Arai @antillia.com<br>
 <pre>
 https://github.com/sarah-antillia/TensorflowMultiResUNet-Segmentation-Gastrointestinal-Polyp
+</pre>
+
+<b>7. TensorflowSwinUNet-Segmentation-Gastrointestinal-Polyp</b><br>
+Toshiyuki Arai @antillia.com<br>
+<pre>
+https://github.com/sarah-antillia/TensorflowSwinUNet-Segmentation-Gastrointestinal-Polyp
 </pre>
