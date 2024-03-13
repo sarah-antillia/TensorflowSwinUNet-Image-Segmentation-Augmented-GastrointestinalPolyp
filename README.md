@@ -477,3 +477,10 @@ Toshiyuki Arai @antillia.com<br>
 <pre>
 https://github.com/sarah-antillia/TensorflowSwinUNet-Segmentation-Gastrointestinal-Polyp
 </pre>
+
+<b>8. TensorflowUNet3Plus-Segmentation-Gastrointestinal-Polyp</b><br>
+Toshiyuki Arai @antillia.com<br>
+<pre>
+https://github.com/sarah-antillia/TensorflowUNet3Plus-Segmentation-Gastrointestinal-Polyp
+</pre>
+
